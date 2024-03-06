@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Async-Сonsistent-Execut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Async-Consistent-Execution-Tests", "..\..\tests\01 Async-Consistent-Execution-Tests\01 Async-Consistent-Execution-Tests.csproj", "{266BD969-526C-45B0-A958-0BF8B3EC142F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Partial-Sums", "02 Partial-Sums\02 Partial-Sums.csproj", "{E9030578-5685-4AA2-86B7-C502A1DD1076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Partial-Sums-Tests", "..\..\tests\02 Partial-Sums-Tests\02 Partial-Sums-Tests.csproj", "{2F1E1204-AFB6-40F3-A014-EB12477792C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{266BD969-526C-45B0-A958-0BF8B3EC142F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{266BD969-526C-45B0-A958-0BF8B3EC142F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{266BD969-526C-45B0-A958-0BF8B3EC142F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9030578-5685-4AA2-86B7-C502A1DD1076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9030578-5685-4AA2-86B7-C502A1DD1076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9030578-5685-4AA2-86B7-C502A1DD1076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9030578-5685-4AA2-86B7-C502A1DD1076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1E1204-AFB6-40F3-A014-EB12477792C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1E1204-AFB6-40F3-A014-EB12477792C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1E1204-AFB6-40F3-A014-EB12477792C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1E1204-AFB6-40F3-A014-EB12477792C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
