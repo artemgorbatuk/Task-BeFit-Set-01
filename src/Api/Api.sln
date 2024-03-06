@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Clerk-Reference-System",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Clerk-Reference-System-Tests", "..\..\tests\03 Clerk-Reference-System-Tests\03 Clerk-Reference-System-Tests.csproj", "{4BB82811-76A7-41BC-BA8E-AAAA638EDB58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Sum-Representation-Finder", "04 Sum-Representation-Finder\04 Sum-Representation-Finder.csproj", "{5EC4C1A7-7DF8-4E41-B4D9-459DD89B7E10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Sum-Representation-Finder-Tests", "..\..\tests\04 Sum-Representation-Finder-Tests\04 Sum-Representation-Finder-Tests.csproj", "{597600CD-78D4-4A87-86FF-4FAC017A3CF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{4BB82811-76A7-41BC-BA8E-AAAA638EDB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB82811-76A7-41BC-BA8E-AAAA638EDB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB82811-76A7-41BC-BA8E-AAAA638EDB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC4C1A7-7DF8-4E41-B4D9-459DD89B7E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC4C1A7-7DF8-4E41-B4D9-459DD89B7E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC4C1A7-7DF8-4E41-B4D9-459DD89B7E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC4C1A7-7DF8-4E41-B4D9-459DD89B7E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597600CD-78D4-4A87-86FF-4FAC017A3CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597600CD-78D4-4A87-86FF-4FAC017A3CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597600CD-78D4-4A87-86FF-4FAC017A3CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597600CD-78D4-4A87-86FF-4FAC017A3CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
