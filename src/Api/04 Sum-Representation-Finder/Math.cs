@@ -4,6 +4,8 @@
     {
         public static bool CanSum(int[] numbers, int sum)
         {
+            // причина почему закомментировано - нет условия в тестовом задании
+
             //if (numbers == null || numbers.Length == 0)
             //{
             //    if(sum == 0)
@@ -17,7 +19,7 @@
 
             numbers = numbers.Where(p => p <= sum).ToArray();
 
-            if (numbers.Length == 1 && numbers[0] != sum)
+            if (numbers.Length == 0 || (numbers.Length == 1 && numbers[0] != sum))
                 return false;
 
             foreach (int number in numbers)
